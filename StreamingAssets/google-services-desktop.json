@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "80830142669",
+    "firebase_url": "https://beat-the-builder-default-rtdb.firebaseio.com",
+    "project_id": "beat-the-builder",
+    "storage_bucket": "beat-the-builder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80830142669:android:5544833ba8516b22fdb184",
+        "android_client_info": {
+          "package_name": "com.fcc.beatthebuilder.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9G4j3a4E1o0HzsHoU2wI_TRPmtV7Fwuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
